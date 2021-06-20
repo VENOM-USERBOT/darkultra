@@ -1,7 +1,7 @@
 {
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "name": "DARK ULTRA",
+  "description": "The modify version of Dark cobra ",
+  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/kaal0408/darkultra/",
+  "website": "https://github.com/kaal0408/darkultra/",
+  "success_url": "https://t.me/Dark_Ultra_support",
   "stack": "container",
   "env": {
     "ENV": {
